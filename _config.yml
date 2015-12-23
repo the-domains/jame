@@ -1,0 +1,28 @@
+name: jame
+favicon: null
+layout_spectrum: 0.9227542241569608
+typography_spectrum: 0.4718471795786172
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.04845005180686712
+  lightness: 0.3973033674992621
+  saturation: 0.7501597178634256
+  rhythmicContrast: 0.6490155144128948
+purpose: []
