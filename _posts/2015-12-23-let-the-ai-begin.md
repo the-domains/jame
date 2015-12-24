@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-23T20:02:07.276Z'
-dateModified: '2015-12-23T20:01:53.092Z'
+datePublished: '2015-12-24T01:12:56.140Z'
+dateModified: '2015-12-23T20:02:07.276Z'
 title: let the ai begin.
 author: []
 authors: []
